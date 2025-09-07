@@ -1,4 +1,4 @@
-// spread operator
+{// spread operator
 // rest operator
 
 // Learn spread operator
@@ -9,4 +9,16 @@ playes1.push(...playes2)
 
 
 // rest operator
+
+
+
+const friends = (...friends :  string[])=>{
+    friends.forEach(element => {
+        console.log(element)
+    });
+}
+
+friends('max' , 'jhon' , "smith")
+
+}
 

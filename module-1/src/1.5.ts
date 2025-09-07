@@ -2,7 +2,7 @@
 
 
 const user : {
-    company : "bangladesh"; //literal type
+    company : "bangladesh"; //type --> literal type
     firstName :  string;
     lastName? : string;  //option type
  } = {
