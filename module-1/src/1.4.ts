@@ -12,7 +12,7 @@ let y : null = null;
 
 
 // array
-let friends : string[] = ['abir', 'jafore'];
+let friends : string[] = ['Smith', 'jhon'];
 
 // tupple --> array --> order --> types of values
 

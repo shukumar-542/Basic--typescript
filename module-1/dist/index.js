@@ -1,2 +1,2 @@
 "use strict";
-var module = "This is first ts";
+let module = "This is first ts";

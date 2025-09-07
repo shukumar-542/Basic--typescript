@@ -2,11 +2,11 @@
 
 
 const user : {
-    company : "coderex"; //literal type
+    company : "bangladesh"; //literal type
     firstName :  string;
     lastName? : string;  //option type
  } = {
-    company : "coderex",
+    company : "bangladesh",
     firstName  : "shukumar",
     // lastName : 'Ghosh',
 }
